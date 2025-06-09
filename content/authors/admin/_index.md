@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:kouhamada2002@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/zkou-ut
@@ -154,3 +154,5 @@ education:
 ## About Me
 
 This webpage is under construction.
+
+I am a second-year master's student at the Graduate School of Information Science and Technology, the University of Tokyo.

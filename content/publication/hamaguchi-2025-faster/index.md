@@ -14,4 +14,6 @@ doi: 10.1103/PhysRevApplied.23.014069
 links:
 - name: URL
   url: https://link.aps.org/doi/10.1103/PhysRevApplied.23.014069
+- name: arXiv
+  url: https://arxiv.org/abs/2406.16673
 ---

@@ -17,4 +17,6 @@ doi: 10.4230/LIPIcs.ESA.2024.64
 links:
 - name: URL
   url: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2024.64
+- name: arXiv
+  url: https://arxiv.org/abs/2407.00573
 ---

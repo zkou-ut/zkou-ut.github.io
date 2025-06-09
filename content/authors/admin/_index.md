@@ -153,6 +153,6 @@ education:
 
 ## About Me
 
-This webpage is under construction.
+**This webpage is under construction.**
 
 I am a second-year master's student at the Graduate School of Information Science and Technology, the University of Tokyo.

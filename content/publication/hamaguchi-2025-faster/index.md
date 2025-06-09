@@ -5,7 +5,7 @@ authors:
 - Kou Hamada
 - Naoki Marumo
 - Nobuyuki Yoshioka
-date: '2025-01-01'
+date: '2025-01-28'
 publishDate: '2025-06-09T12:30:17.179107Z'
 publication_types:
 - article-journal

@@ -5,13 +5,14 @@ authors:
 - Kou Hamada
 - Yasunari Suzuki
 - Yuuki Tokunaga
-date: '2024-01-29'
-publishDate: '2025-06-09T12:49:54.971975Z'
+date: '2026-04-13'
 publication_types:
-- manuscript
+- article-journal
+publication: '*Quantum*'
+doi: 10.22331/q-2026-04-13-2061,
 links:
 - name: URL
-  url: https://arxiv.org/abs/2401.15829
+  url: https://quantum-journal.org/papers/q-2026-04-13-2061/
 - name: arXiv
   url: https://arxiv.org/abs/2401.15829
 ---

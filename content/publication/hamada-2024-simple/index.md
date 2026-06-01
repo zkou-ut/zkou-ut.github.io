@@ -9,7 +9,6 @@ authors:
 - Kunihiko Sadakane
 - Srinivasa Rao Satti
 date: '2024-09-23'
-publishDate: '2025-06-09T12:30:17.194741Z'
 publication_types:
 - paper-conference
 publication: '*32nd Annual European Symposium on Algorithms (ESA 2024)*'

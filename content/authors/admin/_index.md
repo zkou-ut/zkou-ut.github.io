@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master's Student
+role: Ph.D. Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -45,10 +45,14 @@ interests:
   - Quantum Computing
 
 education:
-  - area: Master of Information Science and Technology (expected 2026)
+  - area: Doctor of Philosophy in the field of Mathematical Informatics (expected 2029)
+    institution: The University of Tokyo
+    date_start: 2026-04-01
+    date_end: ''
+  - area: Master of Information Science and Technology
     institution: The University of Tokyo
     date_start: 2024-04-01
-    date_end: ''
+    date_end: '2026-03-31'
   - area: BEng Mathematical Engineering
     institution: The University of Tokyo
     date_start: 2020-04-01
@@ -155,4 +159,4 @@ education:
 
 **This webpage is under construction.**
 
-I am a second-year master's student at the Graduate School of Information Science and Technology, the University of Tokyo.
+I am a first-year Ph.D. student at the Graduate School of Information Science and Technology, the University of Tokyo.

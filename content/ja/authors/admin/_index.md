@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: 博士学生
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: The University of Tokyo
+  - name: 東京大学
     # url: https://openai.com/
 
 # Social network links
@@ -41,20 +41,20 @@ profiles:
     url: https://orcid.org/0009-0005-9046-9818
 
 interests:
-  - Combinatorial Optimization
-  - Quantum Computing
+  - 組合せ最適化
+  - 量子計算
 
 education:
-  - area: Doctor of Philosophy in the field of Mathematical Informatics (expected 2029)
-    institution: The University of Tokyo
+  - area: 博士（情報理工学），2029 年取得見込
+    institution: 東京大学
     date_start: 2026-04-01
     date_end: ''
-  - area: Master of Information Science and Technology
-    institution: The University of Tokyo
+  - area: 修士（情報理工学）
+    institution: 東京大学
     date_start: 2024-04-01
     date_end: '2026-03-31'
-  - area: BEng Mathematical Engineering
-    institution: The University of Tokyo
+  - area: 学士（工学）
+    institution: 東京大学
     date_start: 2020-04-01
     date_end: 2024-03-31
 # work:

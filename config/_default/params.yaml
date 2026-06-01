@@ -28,6 +28,7 @@ marketing:
 
 # Site header
 header:
+  theme_picker: true
   navbar:
     enable: true
     blox: "navbar"

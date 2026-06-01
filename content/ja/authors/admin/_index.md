@@ -45,7 +45,7 @@ interests:
   - 量子計算
 
 education:
-  - area: 博士（情報理工学），2029 年取得見込
+  - area: 博士（情報理工学）2029 年取得見込
     institution: 東京大学
     date_start: 2026-04-01
     date_end: ''

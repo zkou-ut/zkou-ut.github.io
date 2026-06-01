@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Kou Hamada
+title: 浜田 航宇
 
 # Name pronunciation (optional)
 # name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Kou
-last_name: Hamada
+first_name: 航宇
+last_name: 浜田
 
 # Status emoji
 # status:

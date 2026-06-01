@@ -157,6 +157,6 @@ education:
 
 ## About Me
 
-**This webpage is under construction.**
+**このホームページは工事中です．**
 
-I am a first-year Ph.D. student at the Graduate School of Information Science and Technology, the University of Tokyo.
+東京大学大学院情報理工学系研究科の博士 1 年です．

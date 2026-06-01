@@ -127,7 +127,22 @@ education:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
+awards:
+  - title: "Student Poster Award Silver Prize"
+    url: https://aqis-conf.org/2024/student-poster-awards
+    date: '2023-06-29'
+    awarder: 24th Asian Quantum Information Science Conference
+    icon: award
+  - title: "工学部長賞学修最優秀"
+    url: https://www.t.u-tokyo.ac.jp/topics/tp2024-03-22-001
+    date: '2024-03-22'
+    awarder: 東京大学
+    icon: award
+  - title: "学生奨励賞"
+    url: https://www.ipsj.or.jp/award/qs-award2.html
+    date: '2023-06-29'
+    awarder: 第8回量子ソフトウェア研究会 
+    icon: award
 #   - title: Neural Networks and Deep Learning
 #     url: https://www.coursera.org/learn/neural-networks-deep-learning
 #     date: '2023-11-25'

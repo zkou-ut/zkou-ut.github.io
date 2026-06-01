@@ -14,4 +14,6 @@ doi: 10.22331/q-2026-04-13-2061
 links:
 - name: URL
   url: https://doi.org/10.22331/q-2026-04-13-2061
+- name: arXiv
+  url: https://arxiv.org/abs/2401.15829
 ---

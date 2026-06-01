@@ -130,7 +130,7 @@ education:
 awards:
   - title: "Student Poster Award Silver Prize"
     url: https://aqis-conf.org/2024/student-poster-awards
-    date: '2023-06-29'
+    date: '2024-08-30'
     awarder: 24th Asian Quantum Information Science Conference
     icon: award
   - title: "工学部長賞学修最優秀"

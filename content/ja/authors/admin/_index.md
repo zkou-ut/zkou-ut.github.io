@@ -128,6 +128,10 @@ education:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: "第22回研究部会連合発表会優秀講演賞"
+    url: https://shotaroyagishita.github.io/matcha/
+    date: '2026-06-26'
+    awarder: 日本応用数理学会
   - title: "最優秀発表賞"
     url: https://shotaroyagishita.github.io/matcha/
     date: '2026-05-31'
@@ -143,7 +147,7 @@ awards:
   - title: "学生奨励賞"
     url: https://www.ipsj.or.jp/award/qs-award2.html
     date: '2023-06-29'
-    awarder: 第8回量子ソフトウェア研究会 
+    awarder: 第8回量子ソフトウェア研究会
 #   - title: Neural Networks and Deep Learning
 #     url: https://www.coursera.org/learn/neural-networks-deep-learning
 #     date: '2023-11-25'

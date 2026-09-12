@@ -128,6 +128,10 @@ education:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: "Student Thesis Award"
+    # url: https://orsj.org/award-history
+    date: '2026-09-10'
+    awarder: Operations Research Society of Japan
   - title: "研究部会連合発表会優秀講演賞 (Outstanding Presentation Award)"
     url: https://jsiam.org/award/union_lecture_award/%e7%a0%94%e7%a9%b6%e9%83%a8%e4%bc%9a%e9%80%a3%e5%90%88%e7%99%ba%e8%a1%a8%e4%bc%9a%e5%84%aa%e7%a7%80%e8%ac%9b%e6%bc%94%e8%b3%9e2025%e5%b9%b4/
     date: '2026-06-26'

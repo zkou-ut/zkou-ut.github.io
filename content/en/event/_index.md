@@ -1,4 +1,6 @@
 ---
+build:
+  render: never
 title: Recent & Upcoming Talks
 cms_exclude: true
 #url: talk

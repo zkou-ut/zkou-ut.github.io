@@ -1,6 +1,4 @@
 ---
 build:
   render: never
-title: Blog
-view: article-grid
 ---

@@ -6,7 +6,7 @@ authors:
 - Yasunari Suzuki
 - Yuuki Tokunaga
 date: '2026-04-01'
-publishDate: '2026-10-06T06:38:29.466829Z'
+publishDate: '2026-10-06T06:45:53.627531Z'
 publication_types:
 - article-journal
 publication: '*Quantum*'

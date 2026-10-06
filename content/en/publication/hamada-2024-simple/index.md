@@ -8,8 +8,8 @@ authors:
 - Takuto Koriyama
 - Kunihiko Sadakane
 - Srinivasa Rao Satti
-date: '2024-01-01'
-publishDate: '2026-10-06T06:38:29.460346Z'
+date: '2024-09-01'
+publishDate: '2026-10-06T06:45:53.619234Z'
 publication_types:
 - paper-conference
 publication: '*32nd Annual European Symposium on Algorithms (ESA 2024)*'

@@ -5,7 +5,7 @@ authors:
 - Kou Hamada
 - Nobuyuki Yoshioka
 date: '2024-09-01'
-publishDate: '2026-10-06T06:38:29.653701Z'
+publishDate: '2026-10-06T06:45:53.750448Z'
 publication_types:
 - article-journal
 publication: '*Quantum*'

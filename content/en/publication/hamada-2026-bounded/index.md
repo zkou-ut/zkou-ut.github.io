@@ -8,8 +8,8 @@ authors:
 - Yasunari Suzuki
 - Teruo Tanimoto
 - Nobuyuki Yoshioka
-date: '2026-01-01'
-publishDate: '2026-10-06T06:38:29.473080Z'
+date: '2026-06-01'
+publishDate: '2026-10-06T06:45:53.631558Z'
 publication_types:
 - manuscript
 links:

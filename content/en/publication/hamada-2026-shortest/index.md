@@ -3,8 +3,8 @@ title: A Shortest Augmenting Path Algorithm for Linear Matroid Parity
 authors:
 - Kou Hamada
 - Satoru Iwata
-date: '2026-01-01'
-publishDate: '2026-10-06T06:38:29.479053Z'
+date: '2026-10-01'
+publishDate: '2026-10-06T06:45:53.635772Z'
 publication_types:
 - manuscript
 links:

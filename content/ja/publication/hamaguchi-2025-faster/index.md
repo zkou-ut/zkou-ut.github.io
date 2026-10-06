@@ -6,7 +6,7 @@ authors:
 - Naoki Marumo
 - Nobuyuki Yoshioka
 date: '2025-01-01'
-publishDate: '2026-08-26T14:31:38.091775Z'
+publishDate: '2026-10-06T06:38:29.644303Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. Appl.*'
